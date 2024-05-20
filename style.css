@@ -29,14 +29,15 @@
   background-size: 100% 3px, 0 3px;
   background-position: 100% 100%, 0 100%;
   background-repeat: no-repeat;
-  color: hsl(150, 37%, 89%);
+  color: hsl(150, 54%, 89%);
   text-decoration: none;
+  font-size: 2rem;
   transition: background-size 400ms;
 }
 
 .navlink:hover {
   background-size: 0 3px, 100% 3px;
-  color: hsl(198, 58%, 80%);
+  color: hsl(198, 58%, 92%);
 }
 
 .mapelement {
@@ -78,9 +79,7 @@ h1 {
   text-align: center;
   font-size: 3em;
   font-family: 'Times New Roman', Times, serif;
-  background-color: hsl(0, 0%, 22%);
-  color: hsl(37, 95, 83);
-  
+  background-color: hsla(37, 34%, 65%, 0.75);
 
 }
 
